@@ -1,0 +1,7 @@
+import numpy as np
+
+def triangle_area(base, height): #input parameters base and height
+    return base*height/2
+
+
+print(triangle_area(3,4)) # Function call
